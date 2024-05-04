@@ -57,7 +57,7 @@ body {
 }
 
 .overlay {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../public/homepage.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('http://127.0.0.1:5500/public/homepage.png');
     background-size: cover;
     background-position: center;
     height: 110vh;
