@@ -57,7 +57,7 @@ body {
 }
 
 .overlay {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/public/homepage.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/public/homepage.png');
     background-size: cover;
     background-position: center;
     height: 110vh;
@@ -209,7 +209,7 @@ body {
 
   .fullscreen-video {
     height: 100vh;
-    background-image: url(/public/image\ 2.png);
+    background-image: url('/public/image\ 2.png');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -221,7 +221,7 @@ body {
 .youtube-logo {
     width: 63px;
     height: 44px;
-    background-image: url(/public/Vector.png);
+    background-image: url('/public/Vector.png');
     background-size: cover;
     background-position: center;
     cursor: pointer;
